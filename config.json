@@ -1,6 +1,6 @@
 {
     "bot": {
-        "torken": "MTU2NjE3OTUyMzE5ODcyMjA2OA.G43kmx.NzaoR-stZ6sPRih_IscGJiMIE9K7aci0gzOY_c"
+        "token": "MTU2NjE3OTUyMzE5ODcyMjA2OA.G43kmx.NzaoR-stZ6sPRih_IscGJiMIE9K7aci0gzOY_c"
         "presence": {
             "status": "online",
             "activities": [{
