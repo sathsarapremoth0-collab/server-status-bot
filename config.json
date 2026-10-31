@@ -1,18 +1,19 @@
 {
     "bot": {
+        "torken": "MTU2NjE3OTUyMzE5ODcyMjA2OA.G43kmx.NzaoR-stZ6sPRih_IscGJiMIE9K7aci0gzOY_c"
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Hypixel Server",
+                "name": "Strength SMP Status",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
-            "port": 25565,
+            "name": "Strength SMP",
+            "ip": "sg-pr2.codeon.lk",
+            "port": 4073,
             "channelId": "1361757965014798526",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
